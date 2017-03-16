@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swift 3 closures and Cheatsheet
+title: Awesome Swift 3 closures
 ---
 
 ## Closures { () -> () in }
