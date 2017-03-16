@@ -16,12 +16,13 @@ Closures are **Reference** types
 statements
 }
 ```
+{: .language-swift}
 
 ```
 var answerToTheUltimateQuestion = { (a: Int) -> (Int) in return a*0 + 42}
 answerToTheUltimateQuestion(10)
 ```
-{: .language-ruby}
+{: .language-swift}
 
 ### Closure as a parameter in a function
 
@@ -41,7 +42,6 @@ var reversedNames = minorCharacters.sorted(by: sortBackward)
 or you can add closure directly as an argument
 
 ```
-
 let majorCharacters = [ "Arthur Dent", "Ford Prefect", "Zaphod Beeblebrox", "Marvin the Paranoid Android", "Trillian", "Slartibartfast"]
 
 var reversedNames1 = majorCharacters.sorted(by: { (name1: String, name2: String) -> Bool in return name1 > name2 })
@@ -61,9 +61,7 @@ Swift also provide shorthand argument names $0, $1 ...
 For a ingle-expression closures you can omit the **retrun** keyword  
 
 ```
-
 var reversedNames1 = majorCharacters.sorted(by: { $0 > $1 })
-
 ```
 {: .language-swift}
 
