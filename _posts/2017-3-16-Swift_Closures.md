@@ -11,16 +11,18 @@ Closures are **Reference** types
 
 ### Defining a Closure
 
-```Swift
+```
 { (parameters) -> return type in
 statements
 }
 ```
+{: .language-swift}
 
-```Swift
+```
 var answerToTheUltimateQuestion = { (a: Int) -> (Int) in return a*0 + 42}
 answerToTheUltimateQuestion(10)
 ```
+{: .language-ruby}
 
 ### Closure as a parameter in a function
 
