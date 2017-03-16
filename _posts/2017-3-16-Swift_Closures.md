@@ -16,7 +16,6 @@ Closures are **Reference** types
 statements
 }
 ```
-{: .language-swift}
 
 ```
 var answerToTheUltimateQuestion = { (a: Int) -> (Int) in return a*0 + 42}
