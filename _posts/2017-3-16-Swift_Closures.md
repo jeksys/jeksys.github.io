@@ -36,8 +36,9 @@ func sortBackward(_ s1: String, _ s2: String) -> Bool {
 }
 
 var reversedNames = minorCharacters.sorted(by: sortBackward)
-
 ```
+{: .language-swift}
+
 or you can add closure directly as an argument
 
 ```Swift
@@ -45,15 +46,15 @@ or you can add closure directly as an argument
 let majorCharacters = [ "Arthur Dent", "Ford Prefect", "Zaphod Beeblebrox", "Marvin the Paranoid Android", "Trillian", "Slartibartfast"]
 
 var reversedNames1 = majorCharacters.sorted(by: { (name1: String, name2: String) -> Bool in return name1 > name2 })
-
 ```
+{: .language-swift}
 
 Swift can infer the types of its parameters and return type
 
 ```Swift
 var reversedNames1 = majorCharacters.sorted(by: { (name1, name2) in return name1 > name2 })
-
 ```
+{: .language-swift}
 
 ### Shorthand Argument Names
 
@@ -61,9 +62,11 @@ Swift also provide shorthand argument names $0, $1 ...
 For a ingle-expression closures you can omit the **retrun** keyword  
 
 ```Swift
+
 var reversedNames1 = majorCharacters.sorted(by: { $0 > $1 })
 
 ```
+{: .language-swift}
 
 ### Closures can capture references to any constants and variables from their surrounding context
 Use Weak and unowned  
@@ -79,8 +82,8 @@ func findTheAnswer(forValue value: Int) -> () -> Bool {
         }
     return DeepThought
 }
-
 ```
+{: .language-swift}
 
 ### Trailing closure
 A clouser in function’s final argument can be written after the function call’s parentheses
@@ -95,6 +98,7 @@ answer( toTheQuestion: {
     print("42")
 })
 ```
+{: .language-swift}
 
 Short version
 ```Swift
@@ -102,6 +106,7 @@ answer {
     print("42")
 }
 ```
+{: .language-swift}
 
 ### Escaping Closures
 
@@ -119,6 +124,8 @@ func AnswerToTheUltimateQuestion( answer: @autoclosure () -> Int) {
 
 AnswerToTheUltimateQuestion(answer: 42)
 ```
+{: .language-swift}
+
 is equal to
 
 ```Swift
@@ -128,6 +135,8 @@ func AnswerToTheUltimateQuestion( answer: () -> Int) {
 
 AnswerToTheUltimateQuestion(answer: {42})
 ```
+{: .language-swift}
+
 
 ## Functions
 Functions are self-contained chunks of code that perform a specific task
