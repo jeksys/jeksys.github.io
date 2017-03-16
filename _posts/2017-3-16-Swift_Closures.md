@@ -28,7 +28,7 @@ answerToTheUltimateQuestion(10)
 
 **sorted(by:)** - method provided by a Swift standard library, sorts an array, based on sorting closure
 
-```Swift
+```
 let minorCharacters = ["Agrajag", "Mrs Alice Beeblebrox", "The Allitnils", "Aseed", "Colin"]
 
 func sortBackward(_ s1: String, _ s2: String) -> Bool {
@@ -41,7 +41,7 @@ var reversedNames = minorCharacters.sorted(by: sortBackward)
 
 or you can add closure directly as an argument
 
-```Swift
+```
 
 let majorCharacters = [ "Arthur Dent", "Ford Prefect", "Zaphod Beeblebrox", "Marvin the Paranoid Android", "Trillian", "Slartibartfast"]
 
@@ -51,7 +51,7 @@ var reversedNames1 = majorCharacters.sorted(by: { (name1: String, name2: String)
 
 Swift can infer the types of its parameters and return type
 
-```Swift
+```
 var reversedNames1 = majorCharacters.sorted(by: { (name1, name2) in return name1 > name2 })
 ```
 {: .language-swift}
@@ -61,7 +61,7 @@ var reversedNames1 = majorCharacters.sorted(by: { (name1, name2) in return name1
 Swift also provide shorthand argument names $0, $1 ... 
 For a ingle-expression closures you can omit the **retrun** keyword  
 
-```Swift
+```
 
 var reversedNames1 = majorCharacters.sorted(by: { $0 > $1 })
 
@@ -71,7 +71,7 @@ var reversedNames1 = majorCharacters.sorted(by: { $0 > $1 })
 ### Closures can capture references to any constants and variables from their surrounding context
 Use Weak and unowned  
 
-```Swift
+```
 func findTheAnswer(forValue value: Int) -> () -> Bool {
     var theAnswer = 0
         func DeepThought() -> Bool {
@@ -89,7 +89,7 @@ func findTheAnswer(forValue value: Int) -> () -> Bool {
 A clouser in function’s final argument can be written after the function call’s parentheses
 
 Long version
-```Swift
+```
 func answer(toTheQuestion: () -> Void){
     toTheQuestion()
 }
@@ -101,7 +101,7 @@ answer( toTheQuestion: {
 {: .language-swift}
 
 Short version
-```Swift
+```
 answer {
     print("42")
 }
@@ -117,7 +117,7 @@ answer {
 ### Autoclosure
 The @autoclosure argument can be applied to an argument of function type which takes no parameters. At the call site, the caller provides an expression for that argument. This expression is then implicitly wrapped in a function, and that function is passed in as the parameter
 
-```Swift
+```
 func AnswerToTheUltimateQuestion( answer: @autoclosure () -> Int) { 
     print(answer()) 
 }
@@ -128,7 +128,7 @@ AnswerToTheUltimateQuestion(answer: 42)
 
 is equal to
 
-```Swift
+```
 func AnswerToTheUltimateQuestion( answer: () -> Int) {
     print(answer())
 }
