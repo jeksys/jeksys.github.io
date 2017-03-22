@@ -73,6 +73,8 @@ TECHNOLOGIES & SKILLS: Objective-C, UIKit, RESTful API, Brightcove
 
 Organize your trips on Apple Maps! Add the places you wish to visit! For each place, add a name, description, arrival and departure date, URL, phone number and address.
 
+
+
 [MathPad](https://itunes.apple.com/ca/app/mathpad/id435087400?mt=8)
 
 MathPad allows you to create documents that include:
@@ -82,6 +84,7 @@ MathPad allows you to create documents that include:
 • Other elements: matrices, images, text and text boxes
 
 
+
 [Kids Tell Time](https://itunes.apple.com/En/app/id370845110?mt=8)
 
 **** Kids Tell Time was awarded 4 Stars by the Educational App Store! See details below! ****
@@ -89,14 +92,18 @@ MathPad allows you to create documents that include:
 This interactive app helps children learn to tell the time by using both digital and analog clocks.
 The time displayed is also spoken in the selected language for the narration: English, French or Spanish.
 
+
+
 [Find+Learn](https://itunes.apple.com/ca/app/find-learn/id384944659?mt=8)
 
 Talking app with a delightful design, Find + Learn makes learning fun. Words with their respective images and narrations are grouped in themed collections.
 
 
+
 [Find+Read](https://itunes.apple.com/ca/app/find-read/id389810720?mt=8)
 
 Talking app with a delightful design, Find + Read makes learning fun. Words with their respective images and narrations are grouped in themed collections. 
+
 
 
 [10 Puppies](https://itunes.apple.com/ca/app/10-puppies/id379303514?mt=8) - My First iOS app
