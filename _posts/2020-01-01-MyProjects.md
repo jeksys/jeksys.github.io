@@ -69,10 +69,12 @@ TECHNOLOGIES & SKILLS: Objective-C, UIKit, RESTful API, Brightcove
 ## Triggerfox 2013 (full-time)
 
 ## Zurapps. 2010-2012 (full-time)
-RoadTripper(https://itunes.apple.com/ca/app/road-tripper/id398967661?mt=8)
+[RoadTripper](https://itunes.apple.com/ca/app/road-tripper/id398967661?mt=8)
+
 Organize your trips on Apple Maps! Add the places you wish to visit! For each place, add a name, description, arrival and departure date, URL, phone number and address.
 
 [MathPad](https://itunes.apple.com/ca/app/mathpad/id435087400?mt=8)
+
 MathPad allows you to create documents that include:
 • Mathematical expressions that automatically draw, re-size, and align according to their content
 • Geometrical shapes figures with editable notations: circle, equilateral triangle, isosceles triangle, right triangle, obtuse triangle, acute triangle, square, rectangle 
@@ -81,17 +83,22 @@ MathPad allows you to create documents that include:
 
 
 [Kids Tell Time](https://itunes.apple.com/En/app/id370845110?mt=8)
+
 **** Kids Tell Time was awarded 4 Stars by the Educational App Store! See details below! ****
+
 This interactive app helps children learn to tell the time by using both digital and analog clocks.
 The time displayed is also spoken in the selected language for the narration: English, French or Spanish.
 
 [Find+Learn](https://itunes.apple.com/ca/app/find-learn/id384944659?mt=8)
+
 Talking app with a delightful design, Find + Learn makes learning fun. Words with their respective images and narrations are grouped in themed collections.
 
 
 [Find+Read](https://itunes.apple.com/ca/app/find-read/id389810720?mt=8)
+
 Talking app with a delightful design, Find + Read makes learning fun. Words with their respective images and narrations are grouped in themed collections. 
 
 
 [10 Puppies](https://itunes.apple.com/ca/app/10-puppies/id379303514?mt=8) - My First iOS app
+
 Talking app in English, French and Spanish with beautiful images of puppies that facilitates learning the counting sequence up to ten. 10 Puppies helps children learn to recognize, distinguish and identify the corresponding numbers. 
