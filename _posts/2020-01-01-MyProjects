@@ -9,6 +9,7 @@ Role: Rebuild the app from scratch using native iOS tools - Xcode and Swift
 
 TECHNOLOGIES & SKILLS: Swift, AWS, Almofire, RESTAPI, Video Recording and Editing, FFMpeg
 
+
 ## Arrowtop - 2016
 [Arrowtop](https://itunes.apple.com/ca/app/arrowtop/id969312617?mt=8)
 
@@ -17,6 +18,9 @@ ArrowTop is a social network for creating trends with the world. With ArrowTop, 
 Role: Added new featuers and bug fixes
 
 TECHNOLOGIES & SKILLS: Swift, Cocoapods, AWS, Almofire, RESTAPI, Social network 
+
+Note: This startup company is in hybernate mode. The app was removed from the AppStore
+
 
 ## RSA - 2014 - 2016
 ###[RSA SecurID Authenticate](https://itunes.apple.com/ca/app/rsa-securid-authenticate/id986524970?mt=8)
@@ -31,22 +35,40 @@ Role: Build iOS version of the app
 
 TECHNOLOGIES & SKILLS: Swift, Core Data, UIKit, RESTful API, iBeacon, BLE, Git, Agile, JIRA, bsafe, CommonCrypto, encryption, encrypted data transfer
 
+
 ## Burrow - 2015
 Finding an apartment or house in Greater Toronto Area is now easier than finding a date on a Friday night! Simply pull out your phone and swipe to find your next home. Innovative and fun location based search. Always know what's avaliable for rent or sale around you. Craigslist, Kijiji and Realtor are tools of the past. BurrowSwipe has more listings than MLS and updated every hour so you'll never miss out on you dream home.
 
-Role: Build the iOS 
+Role: Build the iOS app
 
 TECHNOLOGIES & SKILLS: Swift, UIKit, RESTful API
 
 Note: The app and the project was discontinued by the client in 2016
 
+
 ## Five minute journal - 2014
+The Five Minute Journal is the simplest, most effective way to become happier in 5 minutes a day with a simple journaling format built on proven principles of positive psychology.
+
+Role: Build the first versin of the iOS app
+
+TECHNOLOGIES & SKILLS: Objective-C, UIKit, RESTful API
+
 
 ## Rogers 2013-2014
-### Sportsnet 2014
-### Today's parents 2014
-### FXNow 2013
-### Breakfast television 2013
+### [Today's parents 2014] (https://itunes.apple.com/ca/app/todays-parent-my-family-pregnancy-baby-toddler-child/id776122599?mt=8)
+This free app is a personalized guide to your child’s age and stage from Today’s Parent, Canada’s most trusted parenting brand. Whether you’re pregnant, a new parent to a baby, or an experienced mom or dad, get all the daily tips, recipes, developmental advice and health information you need to raise a happy, healthy family. The Today’s Parent My Family app gives you a customized, always-updated newsfeed for each pregnancy and child—just enter your due date or your kid’s birth date to get started.
+
+### [FXNow 2013] (https://itunes.apple.com/ca/app/fxnow-canada/id841025523?mt=8)
+The FXNOW Canada app is the home to critically-acclaimed shows from FX and FXX. Watch full episodes of your favourite shows like The Americans, American Horror Story and It's Always Sunny in Philadelphia! Log in to the app with your TV service provider credentials to access the full lineup of content. Contact your TV service provider to order. The app works on iPad, iPhone and iPod touch devices.
+
+
+### [Breakfast television 2013](https://itunes.apple.com/ca/app/breakfast-television/id709465118?mt=8)
+Take City's Breakfast Television with you, wherever and whenever with the new Breakfast Television app for iPhone. This new app will do everything from wake you up in the morning, allow you to watch the live show on your phone, give you the latest weather forecast or let you catch up on all the best videos from today. It is simple, just select your city once you have downloaded the app to get your favourite local Breakfast Television morning show on your phone!
+
+Role: Build iOS version of the app. 
+
+TECHNOLOGIES & SKILLS: Objective-C, UIKit, RESTful API, Brightcove
+
 
 ## Triggerfox 2013
 ## IMG Group. Piers 2012
