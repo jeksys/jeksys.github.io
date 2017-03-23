@@ -26,12 +26,12 @@ Note: This startup company is in hybernate mode. The app was removed from the Ap
 
 Role: Added new featuers and bug fixes
 
-Secure Note Storage (the app was released for internal use only)
+**Secure Note Storage** (the app was released for internal use only)
 The system is designed to store secure information on your device and sync it with other devices (Android, Windows, MacOS) via the server. All the data is encrypted end to end.
 
 Role: Build iOS version of the app
 
-TECHNOLOGIES & SKILLS: Swift, Core Data, UIKit, RESTful API, iBeacon, BLE, Git, Agile, JIRA, bsafe, CommonCrypto, encryption, encrypted data transfer
+TECHNOLOGIES & SKILLS: Swift, Core Data, UIKit, RESTful API, iBeacon, BLE, bsafe, CommonCrypto, encryption, encrypted data transfer, Git
 
 
 ## Burrow - 2015 (part-time contract)
@@ -86,8 +86,6 @@ MathPad allows you to create documents that include:
 
 
 [Kids Tell Time](https://itunes.apple.com/En/app/id370845110?mt=8)
-
-**** Kids Tell Time was awarded 4 Stars by the Educational App Store! See details below! ****
 
 This interactive app helps children learn to tell the time by using both digital and analog clocks.
 The time displayed is also spoken in the selected language for the narration: English, French or Spanish.
