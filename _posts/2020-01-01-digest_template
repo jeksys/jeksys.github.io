@@ -27,3 +27,9 @@ https://www.some url.com
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
 [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+```
+{ (parameters) -> return type in
+statements
+}
+```
+{: .language-swift}
