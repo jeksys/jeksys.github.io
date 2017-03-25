@@ -1,0 +1,60 @@
+---
+layout: post
+title: iOS Digest #N
+tags:
+- code
+---
+
+## Coding
+
+###[Never](https://developer.apple.com/reference/swift/never)
+
+The return type of functions that do not return normally; a type with no values.
+
+Genious Placeholder from smart people
+```
+@available(*, deprecated, message: "unimplemented ")
+var TODO: Never{
+    fatalError("unimplemented")
+}
+@available(*, deprecated, message: "Fix this")
+var FIXME: Void{ return }
+```
+{: .language-swift}
+
+![xcode]({{ site.baseurl }}/images/image_01.png)
+
+by [On Comments](http://khanlou.com/2017/03/on-comments/)
+
+
+## Guard or If for optional? 
+
+**Guard** if an optional variable is expected to be present for the function to execute. 
+
+Use **if** in case the optinal value is expected and it doesn't affect function.
+
+
+[System Level Breakpoints in Swift](http://indiestack.com/2017/03/system-level-breakpoints-in-swift)
+
+## Open Source
+
+
+[Transition by Touchwonders](https://github.com/Touchwonders/Transition)
+Transition is a library that helps you build iOS view controller transitions. Implementing a nice interactive custom view controller transition involves quite a number of components.
+
+
+[GodEye by zixun](https://github.com/zixun/GodEye)
+Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes.
+
+
+## Design
+
+N/A
+
+## Work
+
+N/A
+
+## Other
+
+N/A
