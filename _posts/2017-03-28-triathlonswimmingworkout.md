@@ -15,4 +15,12 @@ Swim (2,600m):
 - 3x100 race pare
 - 100 cool down
 
+
+Swim (2,600m):
+- 2x100 free, 50 back, 50 build, 50 kick
+- 4x500
+  - 200 pull & band
+  - 6x50 race pace
+
+
 by [Triathlon Core Workout for Swimming Technique](https://www.youtube.com/watch?v=uEHbwohWGvo)
