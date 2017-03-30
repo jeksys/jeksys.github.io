@@ -24,4 +24,11 @@ Swim (2,600m):
   - 6x50 race pace
 
 
+
+Swim (1,300m):
+- 2x250 (100 free, 50 back, 50 build, 50 kick)
+- 10x100 (50 hard, 50 easy)
+- 100 cool down
+
+
 by [Triathlon Core Workout for Swimming Technique](https://www.youtube.com/watch?v=uEHbwohWGvo)
