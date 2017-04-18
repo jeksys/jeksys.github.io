@@ -31,4 +31,12 @@ Swim (1,300m):
 - 100 cool down
 
 
+Swim (4,000m):
+- 300 snorkel & pull
+- 200 kick
+- 100 free
+- 100 build
+- 8x400 (300 pull/100 hard)
+
+
 by [Triathlon Core Workout for Swimming Technique](https://www.youtube.com/watch?v=uEHbwohWGvo)
