@@ -38,5 +38,10 @@ Swim (4,000m):
 - 100 build
 - 8x400 (300 pull/100 hard)
 
+Bike(30 min):
+- 10min warm up
+- 2x10min @ race pace
+  - 5min easy in between
+
 
 by [Triathlon Core Workout for Swimming Technique](https://www.youtube.com/watch?v=uEHbwohWGvo)
