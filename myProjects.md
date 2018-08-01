@@ -6,6 +6,7 @@ permalink: /projects/
 
 ## Ritchie Bros. - 2018  (full-time contract)
 [Ritchie Bros. Mobile App](https://itunes.apple.com/app/apple-store/id1068567213?mt=8)
+
 Search, register and bid at Ritchie Bros. auctions around the world on your Apple iOS mobile devices! Buy new and used heavy equipment and trucks for sale at our live unreserved public auctions from your home, office or jobsite. As long as you're connected you can bid.
 
 - Browse tens of thousands of items for sale
