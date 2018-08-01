@@ -4,7 +4,23 @@ title: List of iOS apps I built
 permalink: /projects/
 ---
 
-## Castingworkbook Inc - 2017 (full-time)
+## Ritchie Bros. - 2018  (full-time contract)
+[Ritchie Bros. Mobile App](https://itunes.apple.com/app/apple-store/id1068567213?mt=8)
+Search, register and bid at Ritchie Bros. auctions around the world on your Apple iOS mobile devices! Buy new and used heavy equipment and trucks for sale at our live unreserved public auctions from your home, office or jobsite. As long as you're connected you can bid.
+
+- Browse tens of thousands of items for sale
+- Track equipment and get notifications with watchlists
+- Check detailed equipment information & photos
+- Bid online in real time
+- View live auctions and see what's selling
+- Hear the auctioneer with live streaming audio
+
+Role: Build new feature for the existing app. Team Lead, scrum master for the team
+
+TECHNOLOGIES & SKILLS: Xcode, Swift, RESTAPI, Real Time auctions
+
+
+## Castingworkbook Inc - 2016, 2017  (full-time)
 [The Ultimate Self-Tape App](https://itunes.apple.com/app/apple-store/id911898214?mt=8) is a free app powered by Casting Workbook for their members only. It allows you to self-tape professionally, right from your mobile device. Send your self-tape auditions, along with your portfolio, directly to industry professionals all while looping in your agent. 
 
 Role: Rebuild the app from scratch using native iOS tools - Xcode and Swift
