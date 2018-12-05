@@ -26,7 +26,7 @@ TECHNOLOGIES & SKILLS: Xcode, Swift, RESTAPI, Real Time auctions
 
 Role: Rebuild the app from scratch using native iOS tools - Xcode and Swift
 
-TECHNOLOGIES & SKILLS: Swift, AWS, Almofire, RESTAPI, Video Recording and Editing, FFMpeg
+TECHNOLOGIES & SKILLS: Swift, Realm, Almofire, RESTAPI, Video Recording and Editing, FFMpeg
 
 
 ## Arrowtop - 2016 (part-time contract)
