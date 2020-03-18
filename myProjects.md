@@ -4,6 +4,13 @@ title: List of iOS apps I built
 permalink: /projects/
 ---
 
+## Fastenal - 2019 (full-time remote contract)
+
+Internal app to control vending kiosk on client's property. 
+
+TECHNOLOGIES & SKILLS: Xcode, Swift, RESTAPI, Realm
+
+
 ## Ritchie Bros. - 2018  (full-time contract)
 [Ritchie Bros. Mobile App](https://itunes.apple.com/app/apple-store/id1068567213?mt=8)
 
