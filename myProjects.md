@@ -4,8 +4,12 @@ title: List of iOS apps I built
 permalink: /projects/
 ---
 
-## Fastenal - 2019 (full-time remote contract)
+## HSBC - 2019.10 - Present (full-time remote contract)
+Main HSBC banking app 
+TECHNOLOGIES & SKILLS: Xcode, Swift, RESTAPI
 
+
+## Fastenal - 2019 (full-time remote contract)
 Internal app to control vending kiosk on client's property. 
 
 TECHNOLOGIES & SKILLS: Xcode, Swift, RESTAPI, Realm
