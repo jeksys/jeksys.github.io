@@ -7,7 +7,7 @@ permalink: /projects/
 ## HSBC - 2019.10 - Present (full-time remote contract)
 Main HSBC banking app 
 TECHNOLOGIES & SKILLS: Xcode, Swift, RESTAPI
-
+[HSBC Canada](https://apps.apple.com/ca/app/hsbc-canada/id1301204837)
 
 ## Fastenal - 2019 (full-time remote contract)
 Internal app to control vending kiosk on client's property. 
